@@ -68,4 +68,4 @@ Predominantly male majors have an average median earnings figure of approximatel
 
 Download the `.xlsx` file and open it in Excel to review the raw data, calculated fields, PivotTables, charts, and recommendations.
 
-[View my Tableau Public portfolio](https://public.tableau.com/app/profile/nana.ekow.bryan.sackey)
+
